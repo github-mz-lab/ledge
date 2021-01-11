@@ -6,7 +6,7 @@
 
 ### 双周迭代模型
 
-```mermaid
+```mermaid2020
 gantt
 	title  双周迭代模型
 	dateFormat YYYY-MM-DD
